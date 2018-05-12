@@ -1,0 +1,29 @@
+_repo: Facts-and-Figures-Concerning-the-Hoosac-Tunnel_40709
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40709-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Piper, John J.
+    deathdate: 1869
+    gutenberg_agent_id: '40773'
+    url: http://www.gutenberg.org/2009/agents/40773
+description: ''
+gutenberg_issued: '2012-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Tunnels -- Massachusetts'
+- !lcsh 'Railroads -- Massachusetts'
+- !lcc 'TA'
+- !lcsh 'Hoosac Tunnel (Mass.)'
+- !lcsh 'Railroad tunnels -- Massachusetts'
+title: Facts and Figures Concerning the Hoosac Tunnel
+url: http://www.gutenberg.org/ebooks/40709
